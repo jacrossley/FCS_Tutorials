@@ -8,6 +8,7 @@
 - Python 3.x
 - NumPy
 - Matplotlib
+- SciPy
 
 ## Contact
 @author: Joel A. Crossley <br />
